@@ -1,5 +1,5 @@
 {
-  "name": "DARK NICK",
+  "name": "Dn",
   "version": "1.8.3",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -9,7 +9,7 @@
    },
   "scripts": {
       "start": "node index.js",
-      "dev": "nodemon cypher.js",
+      "dev": "nodemon dn.js",
       "stop": "pkill -f node",
       "restart": "pkill -f node && npm start",
       "test": "echo \"Error: no test specified\" && exit 1"
